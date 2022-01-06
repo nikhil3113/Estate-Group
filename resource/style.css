@@ -165,7 +165,5 @@ a:hover{
     .container{
         width: 60%;
     }
-    input[type=text]{
-        background-position: 330px 10px;
-    }
+ 
 }
